@@ -1,0 +1,101 @@
+[
+        {
+                "partyID": "001",
+                "PartName": "Party1",
+                "PartStartYear": "2009",
+                "partyWorkers": [
+                        {
+                                "workerID": "010",
+                                "workerName": "Worker 1",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "020",
+                                "workerName": "Worker 2",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "030",
+                                "workerName": "Worker 3",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        }
+                ]
+        },
+        {
+                "partyID": "002",
+                "PartName": "Party2",
+                "PartStartYear": "2009",
+                "partyWorkers": [
+                        {
+                                "workerID": "010",
+                                "workerName": "Worker 1",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "020",
+                                "workerName": "Worker 2",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "030",
+                                "workerName": "Worker 3",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        }
+                ]
+        },
+        {
+                "partyID": "003",
+                "PartName": "Part3",
+                "PartStartYear": "2009",
+                "partyWorkers": [
+                        {
+                                "workerID": "010",
+                                "workerName": "Worker 1",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "020",
+                                "workerName": "Worker 2",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "030",
+                                "workerName": "Worker 3",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        }
+                ]
+        },
+        {
+                "partyID": "004",
+                "PartName": "Party4",
+                "PartStartYear": "2009",
+                "partyWorkers": [
+                        {
+                                "workerID": "010",
+                                "workerName": "Worker 1",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "020",
+                                "workerName": "Worker 2",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        },
+                        {
+                                "workerID": "030",
+                                "workerName": "Worker 3",
+                                "dateOfJoin":"10-10-10",
+                                "asignWork":"do all work"
+                        }
+                ]
+        }
+]
